@@ -5,10 +5,10 @@ static const Block blocks[] = {
 	{""   , "internet"    , 5   , 4}  ,
 	{""   , "cpu"         , 10  , 18} ,
 	{""   , "memory"      , 10  , 14} ,
-	{""   , "disk"        , 10  , 3 } ,
-	/*{"" , "battery"     , 5   , 3}  , */
-	{""   , "packages"    , 0   , 8}  ,
+	{""   , "disk"        , 10  , 7}  ,
 	{""   , "volume"      , 0   , 10} ,
+	{""   , "packages"    , 0   , 8}  ,
+	{""   , "battery"     , 5   , 3}  , 
 	{""   , "clock"       , 60  , 1}
 };
 
