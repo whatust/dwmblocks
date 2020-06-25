@@ -2,13 +2,13 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	{""   , "music"       , 0   , 11} ,
-	{""   , "internet"    , 5   , 4}  ,
+	{""   , "internet"    , 10  , 4}  ,
 	{""   , "cpu"         , 10  , 18} ,
 	{""   , "memory"      , 10  , 14} ,
-	{""   , "disk"        , 10  , 7}  ,
+	{""   , "disk"        , 20  , 7}  ,
 	{""   , "volume"      , 0   , 10} ,
-	{""   , "packages"    , 0   , 8}  ,
-	{""   , "battery"     , 5   , 3}  , 
+	{""   , "packages"    , 300 , 8}  ,
+	{""   , "battery"     , 10  , 3}  , 
 	{""   , "clock"       , 60  , 1}
 };
 
