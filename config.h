@@ -9,6 +9,7 @@ static const Block blocks[] = {
 	{""   , "volume"      , 0   , 10} ,
 	{""   , "packages"    , 300 , 8}  ,
 	{""   , "battery"     , 10  , 3}  , 
+	/* {""   , "newsboat"     ,  0  , 6}  , */
 	{""   , "clock"       , 60  , 1}
 };
 
